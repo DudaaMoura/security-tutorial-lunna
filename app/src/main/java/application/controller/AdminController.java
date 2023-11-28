@@ -11,3 +11,8 @@ public class AdminController {
         return "admin/index";
     }
 }
+
+//Esse código Java é parte de um aplicativo Spring, mais especificamente um controlador ('controller')
+//que lida com requisições relacionadas á administração ('admin').
+//Em resumo, quando uma aquisição é feita para uma URL que começa com "/admin", o método 'index' deste controlador é chamado,
+//e ele retorna a string "admin/index".
